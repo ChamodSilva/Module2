@@ -60,6 +60,8 @@
             Below the divs, add 3 spans next to each other and put some distinctive content into each span. Observe the
             difference between block and inline elements in the browser.
           </li>
+          <img alt="Exercise 1 - HTML Elements - div, span 1" src="/Lab Screenshots/Exercise1/Exercise1-3-1,2-1.png">
+          <img alt="Exercise 1 - HTML Elements - div, span 2" src="/Lab Screenshots/Exercise1/Exercise1-3-1,2-2.png">
           <li>
             Below, add p and pre tags into your HTML body using the below contents:
             <ul>
@@ -95,7 +97,6 @@
             "Learning elements - div, span, p, pre, ul, li, ol, article". Consider the difference between the page headline and article headline.
           </li>
         </ul>
-        <img alt="Exercise 1 - HTML Elements - Metadata" src="/Lab Screenshots/Exercise1/Exercise1-2.png">
       </details>
       <!-- SECTION IV -->
     </ul>
