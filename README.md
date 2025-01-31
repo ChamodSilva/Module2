@@ -8,7 +8,7 @@
       <!-- SECTION I -->
       <details>
         <summary>Template and Live Server</summary>
-        <ol style="list-style-type: decimal;">
+        <ul>
           <li>
             Open the src folder in VS code and take a look at the template HTML files.
           </li>
@@ -24,13 +24,13 @@
               </li>
             </ol>
           </li>
-        </ol>
+        </ul>
         <img alt="Exercise 1 - Template and Live Server" src="/Lab Screenshots/Exercise1/Exercise1-1.gif">
       </details>
       <!-- SECTION II -->
       <details>
         <summary>HTML Elements - Metadata</summary>
-        <ol style="list-style-type: decimal;">
+        <ul>
           <li>
             Add a title using the HTML title tag.
           </li>
@@ -45,13 +45,13 @@
               <li>viewport</li>
             </ul>
           </li>
-        </ol>
+        </ul>
         <img alt="Exercise 1 - HTML Elements - Metadata" src="/Lab Screenshots/Exercise1/Exercise1-2.png">
       </details>
       <!-- SECTION III -->
       <details>
         <summary>HTML Elements- div, span, p, pre, ul, li, ol, article</summary>
-        <ol style="list-style-type: decimal;">
+        <ul>
           <li>
             Add 3 divs next to each other at the beginning of the body section and put some distinctive content into
             each of the divs.
@@ -94,7 +94,7 @@
             Add an article headline - add an h2 tag within the article tag with any content, e.g.
             "Learning elements - div, span, p, pre, ul, li, ol, article". Consider the difference between the page headline and article headline.
           </li>
-        </ol>
+        </ul>
         <img alt="Exercise 1 - HTML Elements - Metadata" src="/Lab Screenshots/Exercise1/Exercise1-2.png">
       </details>
       <!-- SECTION IV -->
