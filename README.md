@@ -8,7 +8,7 @@
       <!-- SECTION I -->
       <details>
         <summary>Template and Live Server</summary>
-        <ol style="list-style-type: decimal;">
+        <ol style="list-style: decimal;">
           <li>
             Open the src folder in VS code and take a look at the template HTML files.
           </li>
