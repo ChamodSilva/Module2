@@ -8,9 +8,68 @@
   <header>
     <nav>
       <!-- works like <a href="/index.html">Home</a> -->
-      <a href="/">Home</a>
+      <a href="/lab-1-html/src/index.html">Home</a>
+      <!-- works like <a href="/form.html">Home</a> -->
+      <a href="/lab-1-html/src/form.html">Form</a>
     </nav>
   </header>
+
+  <!-- VI. HTML elements - Forms - form, input, label, select, option, button -->
+  <form method="POST" action="http://127.0.0.1:5500/lab-1-html/src/form.html">
+    <div>
+      <label for="firstname">First Name:</label>
+      <input type="text" id="firstname" name="firstname">
+    </div>
+
+    <div>
+      <label for="lastname">Last Name:</label>
+      <input type="text" id="lastname" name="lastname">
+    </div>
+    <br>
+    <div>
+      <label for="favourite-programing-language">Favourite Programing Language:</label><br>
+
+      <input type="radio" id="c" name="favourite-language" value="C">
+      <label for="c">C</label><br>
+      <input type="radio" id="c++" name="favourite-language" value="C++">
+      <label for="c++">C++</label><br>
+      <input type="radio" id="python" name="favourite-language" value="Python">
+      <label for="python">Python</label>
+      
+    </div>
+    <br>
+    <div>
+      <label for="vehicle-types-owned">What vehicles do you own?</label><br>
+      <input type="checkbox" id="car" name="vehicle-owned" value="Car">
+      <label for="car">Car</label><br>
+      <input type="checkbox" id="motorbike" name="vehicle-owned" value="Motorbike">
+      <label for="motorbike">Motorbike</label><br>
+      <input type="checkbox" id="bicycle" name="vehicle-owned" value="Bicycle">
+      <label for="bicycle">Bicycle</label>
+    </div>
+    <br>
+    <div>
+      <label for="vehicle-types-owned">What brand of car do you own?</label><br>
+      <select name="car-brand" id="carbrand">
+        <option value="N/A">N/A</option>
+        <option value="Toyota">Toyota</option>
+        <option value="Nissan">Nissan</option>
+        <option value="Mitsubishi">Mitsubishi</option>
+        <option value="Holden">Holden</option>
+        <option value="Ford">Ford</option>
+        <option value="Suzuki">Suzuki</option>
+        <option value="Tesla">Tesla</option>
+        <option value="Hyundai">Hyundai</option>
+        <option value="KIA">KIA</option>
+        <option value="Isuzu">Isuzu</option>
+        <option value="BYD">BYD</option>
+        <option value="Mazda">Mazda</option>
+        <option value="Honda">Honda</option>
+      </select>
+    </div>
+    <br>
+    <button type="submit">Submit Form</button>
+  </form>
 
   <main>
   </main>

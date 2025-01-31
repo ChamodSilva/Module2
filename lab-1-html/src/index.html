@@ -2,25 +2,120 @@
 <html>
 
 <head>
-  <!-- HTML Metadata -->
+  <!-- II. HTML elements - metadata -->
   <meta charset="UTF-8">
   <meta name="description" content="Lab-1-HTML">
   <meta name="keywords" content="HTML, Institute of Data, Lab-Exercises">
   <meta name="author" content="Chamod Silva">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Lab-1-HTML</title>
+
+  <style>
+    table, th, td
+    {
+      border: 1px solid black;
+    }
+  </style>
 </head>
 
 <body>
-  <div>Hello</div><div>World</div><div>!</div>
-  <span>This</span><span>is</span><span>me!</span>
-
   <header>
     <nav>
       <!-- works like <a href="/index.html">Home</a> -->
-      <a href="/">Home</a>
+      <a href="/lab-1-html/src/index.html">Home</a>
+      <!-- works like <a href="/form.html">Home</a> -->
+      <a href="/lab-1-html/src/form.html">Form</a>
     </nav>
   </header>
+
+  <!-- III. HTML elements - div, span, p, pre, ul, li, ol, article -->
+  <h1>My HTML learning journey</h1>
+
+  <article>
+    <h2>Learning elements - div, span, p, pre, ul, li, ol, article</h2>
+
+    <div>Hello</div>
+    <div>World</div>
+    <div>!</div>
+    <span>This</span><span>is</span><span>me!</span>
+  
+    <p>
+      p represents paragraph without preserving spacing
+    </p>
+    <pre>
+        Text in         a pre element
+        is displayed in a fixed-width
+        font, and it preserves
+        both      spaces and
+        line breaks
+    </pre>
+  
+    <ul>
+      <li>This</li>
+      <li>is</li>
+      <li>unorderd</li>
+      <li>!</li>
+    </ul>
+  
+    <ol>
+      <li>This</li>
+      <li>is</li>
+      <li>
+        ordered!
+        <ul>
+          <li>!!!</li>
+          <li>!!!</li>
+        </ul>
+      </li>
+    </ol>
+  </article>
+
+  <!-- IV. HTML elements - Tables - table, thead, tbody, tr, td, th -->
+  <article>
+    <h2>Article 2!</h2>
+    <table>
+      <tr>
+        <th colspan="2">Company</th>
+        <th>Contact</th>
+        <th>Country</th>
+      </tr>
+      <tr>
+        <td rowspan="2">Alfreds Futterkiste</td>
+        <td>Maria Anders</td>
+        <td>Germany</td>
+        <td>test</td>
+      </tr>
+      <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td>Mexico</td>
+        <td>test</td>
+      </tr>
+      <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td>Mexico</td>
+        <td>test</td>
+      </tr>
+    </table>
+  </article>
+
+  <!-- V. HTML elements - img, video, audio -->
+  <article>
+    <h2>Article 3!</h2>
+    
+    <img src="https://picsum.photos/400/400" alt="picture1" height="200" width="200"><br>
+    <img src="/lab-1-html/src/assets/html_lab_image.jpg" alt="picture2" height="200" width="200"><br>
+    
+    <video autoplay width="250">
+      <source src="/lab-1-html/src/assets/flower.webm" type="video/webm">
+      Sorry, your browser doesn't support embedded videos.
+    </video>
+    <br>
+    <audio autoplay src="/lab-1-html/src/assets/t-rex-roar.mp3">
+      Your browser does not support the <code>audio</code> element.
+    </audio>
+  </article>
 
   <main>
   </main>
