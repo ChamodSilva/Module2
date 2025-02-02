@@ -111,7 +111,7 @@ a {
     text-align: center;
     border-right: #68B0AB solid 1.5px; /*<--|Not sure if right approach, but*/
     border-left: #68B0AB solid 1.5px;  /*<--|'column-gap' style did not work.*/
-    flex-grow: 1;
+    flex-grow: 1;       /*Grows each element evenly*/
 }
 
 /* Descendant selector inorder to minimise repeat code.*/

@@ -858,3 +858,24 @@ flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]; // shorthand 
       </ul>
     </details>
   </ul>
+</details>
+
+<!-- Exercise 4 -->
+<details>
+  <summary>Exercise 4 - Build Your Own Webpage</summary>
+  <ul>
+    <li>
+      <p>To be completed. VERY SOON!!</p>
+    </li>
+  </ul>
+</details>
+
+<!-- Exercise 5 -->
+<details>
+  <summary>Exercise 5 - Responsive Webpage</summary>
+  <ul>
+    <li>
+      <p>To be completed. VERY SOON!!</p>
+    </li>
+  </ul>
+</details>
