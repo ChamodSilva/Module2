@@ -1,0 +1,157 @@
+body {
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+a {
+    text-decoration: none;
+    color: purple;
+}
+
+.background-1 {
+    background: #68B0AB;
+}
+
+.background-2 {
+    background: #8FC0A9;
+}
+
+.background-3 {
+    background: #C8D5B9;
+}
+
+.background-4 {
+    background: #FAF3DD;
+}
+
+.m-20 {
+    margin: 20px;
+}
+
+.h-80 {
+    min-height: 80px;
+}
+
+.h-400 {
+    height: 400px;
+}
+
+.w-80 {
+    width: 80px;
+}
+
+/* Step 2 */
+.flex-container
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-item-1
+{
+    flex: 1;
+}
+
+.flex-item-2
+{
+    flex: 2;
+}
+
+.flex-item-3
+{
+    flex: 3;
+}
+
+.flex-item-4
+{
+    flex: 4;
+}
+
+/* Step 3 */
+.flex-center
+{
+    justify-content: center;
+    align-items: center;
+}
+
+/* Step 4 */
+.flex-space-between
+{
+    justify-content: space-between;
+}
+
+/* Step 5 */
+.flex-basis-item-50
+{
+    flex-basis: 25%;
+}
+
+.flex-wrap
+{
+    flex-wrap: wrap;
+}
+
+/* Step 7 */
+.flex-menu
+{
+    display: flex;
+    font-size: large;
+    font-weight: 700;
+    justify-content: center;
+    align-items: center;
+    padding: 0;     /*set to 0 so menu can hit edge of page*/
+}
+
+/* Descendant selector inorder to minimise repeat code.*/
+.flex-menu li
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-right: #68B0AB solid 1.5px; /*<--|Not sure if right approach, but*/
+    border-left: #68B0AB solid 1.5px;  /*<--|'column-gap' style did not work.*/
+    flex-grow: 1;
+}
+
+/* Descendant selector inorder to minimise repeat code.*/
+.flex-menu a
+{
+    user-select: none;    /*Prevents text cursor from appearing on links*/
+    color: black;
+    display: block;       /*To allow whole box to be part of link.*/
+    padding: 15px 15px;   /*Padding is applied here to size box.*/
+    margin: 0;
+    height: 100%;       /*Forces the link to ALWAYS match*/
+    width: 100%;        /*the size of the box.*/
+}
+
+/* Home */
+.first-item
+{   
+    order: 1;
+}
+
+/* About Us */
+.second-item
+{
+    order: 2;
+}
+
+/* Services */
+.third-item
+{
+    order: 3;
+}
+
+/* FAQs */
+.fourth-item
+{
+    order: 5;
+}
+
+/* Contact Us */
+.fifth-item
+{
+    order: 4;
+}

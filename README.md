@@ -671,3 +671,190 @@ border: 1px solid black;
     </details>
   </ul>
 </details>
+
+<!-- Exercise 3 -->
+<details>
+  <summary>Exercise 3 - Flexbox</summary>
+  <ul>
+    <details>
+      <!-- SECTION I -->
+      <summary>Basic flexbox:</summary>
+      <ul>
+        <!-- Step 1 -->
+        <li>
+          Add a CSS rule for the <code>flex-container</code> class and set it to use a flexbox display model.
+        </li>
+        <li>
+          Add rules for the <code>flex-item-1</code>, <code>...-2</code>, <code>...-3</code>, and <code>...-4</code> classes and set <code>flex: &lt;number&gt;;</code> to them accordingly.
+        </li>
+        <li>
+          Compare how the HTML file looks in a browser before and after your changes. How does the value for the flex affect the size of the item?
+          <ul>
+            <li>
+              After the <code>flex: </code> values for <code>flex-items-1</code>, <code>...-2</code>, <code>...-3</code>, and <code>...-4</code>, the space taken by each div was distributed based on its <code>flex:</code> value. with <code>4</code> getting the most space.
+            </li>
+          </ul>
+        </li>
+        <img alt="Exercise 3 - Basic Flexbox - 1" src="/Lab Screenshots/Exercise3/Exercise3-2-1,2,3-1.png">
+        <img alt="Exercise 3 - Basic Flexbox - 2" src="/Lab Screenshots/Exercise3/Exercise3-2-1,2,3-2.png">
+      </ul>
+    </details>
+    <details>
+      <!-- SECTION II -->
+      <summary>Centering with flexbox:</summary>
+      <ul>
+        <!-- Step 1 -->
+        <li>
+          Add a CSS rule for the <code>flex-center</code> class and set values for <code>justify-content</code> and <code>align-items</code>.
+        </li>
+        <li>
+          Try out different values for both of the above CSS properties. Your final goal is to center an item within its container both horizontally and vertically.
+        </li>
+      </ul>
+      <img alt="Exercise 3 - Centering with Flexbox - 1" src="/Lab Screenshots/Exercise3/Exercise3-3-1,2-1.png">
+      <img alt="Exercise 3 - Centering with Flexbox - 2" src="/Lab Screenshots/Exercise3/Exercise3-3-1,2-2.png">
+    </details>
+    <details>
+      <!-- SECTION III -->
+      <summary>Assigning leftover space:</summary>
+      <ul>
+        <!-- Step 1 -->
+        <li>
+          Add a CSS rule for the <code>flex-space-between</code> class and experiment with different values for the <code>justify-content</code> property. Observe how the alignment of the flex items changes.
+        </li>
+        <li>
+          Set an appropriate value for <code>justify-content</code> to push the elements to the left and right sides with leftover space in the middle.
+        </li>
+      </ul>
+      <img alt="Exercise 3 - Assigning Leftover Space - 1" src="/Lab Screenshots/Exercise3/Exercise3-4-1,2-1.png">
+      <img alt="Exercise 3 - Assigning Leftover Space - 1" src="/Lab Screenshots/Exercise3/Exercise3-4-1,2-2.png">
+    </details>
+    <details>
+      <!-- SECTION IV -->
+      <summary>Wrapping items:</summary>
+      <ul>
+        <!-- Step 1 -->
+        <li>
+          Add rules for the <code>flex-basis-item-50</code> and <code>flex-wrap</code> classes so that the container has <code>flex-wrap: wrap;</code> and flex items have <code>flex-basis</code> set to <code>50%</code>.
+        </li>
+        <li>
+          Observe what happens when changing the value for <code>flex-wrap</code> to <code>wrap-reverse</code>.
+        </li>
+        <ul>
+          <li>
+            <code>flex-wrap: wrap-reverse</code>: Changes the priority of the items for determining which item gets put on to a new line. When set to <code>fle-wrap: wrap-reverse</code> item 4 will remain on the top line while the other items follow respective. When set to <code>flex-wrap: wrap</code> this will be the opposite.
+          </li>
+          <li>
+            <code>flex-basis: 50%</code>: Resizes the items within a container allocating each item certain amout of space based on the value given. In this case it is<code>value: 50%</code> of the line.
+          </li>
+        </ul>
+        <li>
+          Choose a new value for <code>flex-basis</code> that makes all 4 flex items fit on the one line.
+        </li>
+      </ul>
+      <img alt="Exercise 3 - Wrapping Items - 1" src="/Lab Screenshots/Exercise3/Exercise3-5-1,2,3-1.png">
+      <img alt="Exercise 3 - Wrapping Items - 2" src="/Lab Screenshots/Exercise3/Exercise3-5-1,2,3-2.png">
+    </details>
+    <details>
+      <!-- SECTION V -->
+      <summary>Changing direction:</summary>
+      <ul>
+        <!-- Step 1 -->
+        <li>
+          Add a <code>flex-direction</code> property to the <code>flex-container</code> class and observe the behaviour when using different values. Use the link and reference below to find some of the commonly used values.
+        </li>
+      </ul>
+      <img alt="Exercise 3 - Changing Directions - 1" src="/Lab Screenshots/Exercise3/Exercise3-6-1-1.png">
+      <p>
+        <code>flex-direction: row;</code> is the default direction and as a result changed nothing.
+      </p>
+    </details>
+    <details>
+      <!-- SECTION VI -->
+      <summary>Flexbox for horizontal navigation:</summary>
+      <ul>
+        <!-- Step 1 -->
+        <li>
+          Add CSS for the <code>flex-menu</code> class and its children to make it look like the screenshot:
+          <img alt="Flexbox Navigation Example Screenshot" src="/lab-3-flexbox/src/assets/flexbox-nav-guide.png">
+        </li>
+        <ul>
+          <li>
+            <p>My recreation 1:</p>
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 1" src="/Lab Screenshots/Exercise3/Exercise3-7-1-1.png">
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 2" src="/Lab Screenshots/Exercise3/Exercise3-7-1-2.png">
+          </li>
+        </ul>
+        <li>
+          Use the <code>justify-content</code> property to align the menu items to the right.
+        </li>
+        <ul>
+          <li>
+            <p>My recreation 2:</p>
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 3" src="/Lab Screenshots/Exercise3/Exercise3-7-2-1.png">
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 4" src="/Lab Screenshots/Exercise3/Exercise3-7-2-2.png">
+          </li>
+        </ul>
+        <li>
+          Use the <code>justify-content</code> property to align the menu items to the center of the row.
+        </li>
+        <ul>
+          <li>
+            <p>My recreation 3:</p>
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 5" src="/Lab Screenshots/Exercise3/Exercise3-7-3-1.png">
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 6" src="/Lab Screenshots/Exercise3/Exercise3-7-3-2.png">
+          </li>
+        </ul>
+        <li>
+          Use the order property to move the FAQs menu item to last.
+        </li>
+        <ul>
+          <li>
+            <p>
+              My recreation 4: Done via styles ONLY, however it would be better to do this via the html file as the <code>tab-index</code> follows the original layout.
+            </p>
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 7" src="/Lab Screenshots/Exercise3/Exercise3-7-4-1.png">
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 8" src="/Lab Screenshots/Exercise3/Exercise3-7-4-2.png">
+          </li>
+        </ul>
+        <li>
+          Use the <code>flex-grow</code> property to divide the total space evenly between each menu item, then center the links.
+        </li>
+        <ul>
+          <li>
+            <p>My recreation 5:</p>
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 9" src="/Lab Screenshots/Exercise3/Exercise3-7-5-1.png">
+            <img alt="Exercise 3 - Flexbox for Horizontal Navigation - 10" src="/Lab Screenshots/Exercise3/Exercise3-7-5-2.png">
+          </li>
+        </ul>
+      </ul>
+    </details>
+    <details>
+      <summary>Useful Flexbox Parameters:</summary>
+      <ul>
+        <li>
+          Flexbox Container:
+          <pre>
+display: flex | inline-flex;
+flex-direction: row | row-reverse | column | column-reverse;
+flex-wrap: nowrap | wrap | wrap-reverse;
+justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly;
+align-items: stretch | flex-start | flex-end | center | baseline;
+align-content: flex-start | flex-end | center | space-between | space-around | space-evenly | stretch;
+flex-flow: <'flex-direction'> <'flex-wrap'>; // shorthand property
+          </pre>
+        </li>
+        <li>
+          Flexbox Items:
+          <pre>
+flex-grow: &lt;number&gt;;
+flex-shrink: &lt;number&gt;;
+flex-basis: auto | &lt;width&gt;;
+order: &lt;number&gt;;
+align-self: auto | flex-start | flex-end | center | baseline | stretch;
+flex: none | [ <'flex-grow'> <'flex-shrink'>? || <'flex-basis'> ]; // shorthand property 
+          </pre>
+        </li>
+      </ul>
+    </details>
+  </ul>
