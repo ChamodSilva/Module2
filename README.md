@@ -625,11 +625,11 @@ border: 1px solid black;
           </li>
           <li>
             Using a different <code>font-style</code> value.
-          </li>
-        </ul>
-        <ul>
-          <li>
-            <code>font-style</code> Does not work due to browsers wanting to protect the users privacy. In the early days this was used by malicious websites in conjunction with JavaScript to figure out what website the user has visited.
+            <ul>
+              <li>
+                <code>font-style</code> Does not work due to browsers wanting to protect the users privacy. In the early days this was used by malicious websites in conjunction with JavaScript to figure out what website the user has visited.
+              </li>
+            </ul>
           </li>
         </ul>
         <img alt="Exercise 2 - Syling Links - 1" src="/Lab Screenshots/Exercise2/Exercise2-5-1,2,3-1.png">
