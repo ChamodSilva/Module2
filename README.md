@@ -1,5 +1,5 @@
-## Module 2 Lab Exercises.
-
+## Module 2 Lab Exercises
+##### Expand items below for an "easier" view of my approach to each step. Includes exercise questions, my relevant code, and respective browser view. :)
 ---
 <details>
   <summary>Exercise 1 - HTML</summary>
