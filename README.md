@@ -25,10 +25,7 @@
             </ol>
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - Template and Live Server" src="/Lab Screenshots/Exercise1/Exercise1-1.gif">
-        </div>
+        <img alt="Exercise 1 - Template and Live Server" src="/Lab Screenshots/Exercise1/Exercise1-1.gif">
       </details>
       <!-- SECTION II -->
       <details>
@@ -49,10 +46,7 @@
             </ul>
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - HTML Elements - Metadata" src="/Lab Screenshots/Exercise1/Exercise1-2.png">
-        </div>
+        <img alt="Exercise 1 - HTML Elements - Metadata" src="/Lab Screenshots/Exercise1/Exercise1-2.png">
       </details>
       <!-- SECTION III -->
       <details>
@@ -101,11 +95,8 @@ line breaks
             "Learning elements - div, span, p, pre, ul, li, ol, article". Consider the difference between the page headline and article headline.
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - HTML Elements - div, span, p, pre, ul, li, ol, article - 1" src="/Lab Screenshots/Exercise1/Exercise1-3-1,2,3,4,5,6,7,8,9-1.png">
-          <img alt="Exercise 1 - HTML Elements - div, span, p, pre, ul, li, ol, article - 2" src="/Lab Screenshots/Exercise1/Exercise1-3-1,2,3,4,5,6,7,8,9-2.png">
-        </div>
+        <img alt="Exercise 1 - HTML Elements - div, span, p, pre, ul, li, ol, article - 1" src="/Lab Screenshots/Exercise1/Exercise1-3-1,2,3,4,5,6,7,8,9-1.png">
+        <img alt="Exercise 1 - HTML Elements - div, span, p, pre, ul, li, ol, article - 2" src="/Lab Screenshots/Exercise1/Exercise1-3-1,2,3,4,5,6,7,8,9-2.png">
       </details>
       <!-- SECTION IV -->
       <details>
@@ -159,11 +150,8 @@ line breaks
             Add a third row with 2 columns to the table and add a rowspan="2" attribute to one of the td tags on the second row, then observe what happens.
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - tables - table, thead, tbody, tr, td, th - 1" src="/Lab Screenshots/Exercise1/Exercise1-4-1,2,3,4,5,6,7,8-1.png">
-          <img alt="Exercise 1 - tables - table, thead, tbody, tr, td, th - 2" src="/Lab Screenshots/Exercise1/Exercise1-4-1,2,3,4,5,6,7,8-2.png">
-        </div>
+        <img alt="Exercise 1 - tables - table, thead, tbody, tr, td, th - 1" src="/Lab Screenshots/Exercise1/Exercise1-4-1,2,3,4,5,6,7,8-1.png">
+        <img alt="Exercise 1 - tables - table, thead, tbody, tr, td, th - 2" src="/Lab Screenshots/Exercise1/Exercise1-4-1,2,3,4,5,6,7,8-2.png">
       </details>
       <!-- SECTION V -->
       <details>
@@ -202,11 +190,8 @@ line breaks
             Try removing the controls attribute and adding autoplay attribute to both audio and video tags. Observe the changes.
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - HTML Elements - img, video, audio - 1" src="/Lab Screenshots/Exercise1/Exercise1-5-1,2,3,4,5,6-1.png">
-          <img alt="Exercise 1 - HTML Elements - img, video, audio - 2" src="/Lab Screenshots/Exercise1/Exercise1-5-1,2,3,4,5,6-2.png">
-        </div>
+        <img alt="Exercise 1 - HTML Elements - img, video, audio - 1" src="/Lab Screenshots/Exercise1/Exercise1-5-1,2,3,4,5,6-1.png">
+        <img alt="Exercise 1 - HTML Elements - img, video, audio - 2" src="/Lab Screenshots/Exercise1/Exercise1-5-1,2,3,4,5,6-2.png">
       </details>
       <!-- SECTION VI -->
       <details>
@@ -267,11 +252,8 @@ line breaks
               </pre>
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - HTML Elements - iForms - form, input, label, select, option, button - 1" src="/Lab Screenshots/Exercise1/Exercise1-6-1,2,3,4,5,6-1.png">
-          <img alt="Exercise 1 - HTML Elements - iForms - form, input, label, select, option, button - 2" src="/Lab Screenshots/Exercise1/Exercise1-6-1,2,3,4,5,6-2.png">
-        </div>
+        <img alt="Exercise 1 - HTML Elements - iForms - form, input, label, select, option, button - 1" src="/Lab Screenshots/Exercise1/Exercise1-6-1,2,3,4,5,6-1.png">
+        <img alt="Exercise 1 - HTML Elements - iForms - form, input, label, select, option, button - 2" src="/Lab Screenshots/Exercise1/Exercise1-6-1,2,3,4,5,6-2.png">
       </details>
       <!-- SECTION VII -->
       <details>
@@ -284,11 +266,8 @@ line breaks
             Test your links by clicking them to navigate to both pages.
           </li>
         </ul>
-        <div style="border: 2px solid green; padding: 5px;">
-          <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-          <img alt="Exercise 1 - Adding a link from Home to Form page - 1" src="/Lab Screenshots/Exercise1/Exercise1-7-1,2-1.png">
-          <img alt="Exercise 1 - Adding a link from Home to Form page - 2" src="/Lab Screenshots/Exercise1/Exercise1-7-1,2-2.gif">
-        </div>
+        <img alt="Exercise 1 - Adding a link from Home to Form page - 1" src="/Lab Screenshots/Exercise1/Exercise1-7-1,2-1.png">
+        <img alt="Exercise 1 - Adding a link from Home to Form page - 2" src="/Lab Screenshots/Exercise1/Exercise1-7-1,2-2.gif">
       </details>
       <!-- SECTION VIII -->
       <details>
@@ -300,20 +279,14 @@ line breaks
           <li>
             Select various elements on your website by clicking on them using the Elements tab of the Inspection tool. Observe how they are highlighted as you hover and click them.
           </li>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 1 - Inspecting the HTML - 1" src="/Lab Screenshots/Exercise1/Exercise1-8-1,2-1.gif">
-          </div>
+          <img alt="Exercise 1 - Inspecting the HTML - 1" src="/Lab Screenshots/Exercise1/Exercise1-8-1,2-1.gif">
           <li>
             Take a look at the CSS in the "Styles" subtab (under or right of the "Elements" tab) and try editing the CSS styles. For example you may try adding some of the following values:
             <pre>
 margin: 20px; color: blue; font-size: 24px;
             </pre>
           </li>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 1 - Inspecting the HTML - 2" src="/Lab Screenshots/Exercise1/Exercise1-8-3-1.gif">
-          </div>
+          <img alt="Exercise 1 - Inspecting the HTML - 2" src="/Lab Screenshots/Exercise1/Exercise1-8-3-1.gif">
         </ul>
       </details>
     </ul>
@@ -349,11 +322,8 @@ border: 1px solid black;
             <li>
               Using a specific selector, change the font color of the element that has both a class of <code>style-me1</code> and an id of <code>style-me2</code> to purple.
             </li>
-            <div style="border: 2px solid green; padding: 5px;">
-              <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-              <img alt="Exercise 2 - Selectors - 1" src="/Lab Screenshots/Exercise2/Exercise2-1-1-1,2,3,4-1.png">
-              <img alt="Exercise 2 - Selectors - 2" src="/Lab Screenshots/Exercise2/Exercise2-1-1-1,2,3,4-2.png">
-            </div>
+            <img alt="Exercise 2 - Selectors - 1" src="/Lab Screenshots/Exercise2/Exercise2-1-1-1,2,3,4-1.png">
+            <img alt="Exercise 2 - Selectors - 2" src="/Lab Screenshots/Exercise2/Exercise2-1-1-1,2,3,4-2.png">
           </ul>
           <!-- Step 2 -->
           <li>Combinators</li>
@@ -364,11 +334,8 @@ border: 1px solid black;
             <li>
               Using a child combinator, style all the &lt;p&gt; elements that are direct children of <code>.my-children-are-styled</code>, by setting their background to lightgreen.
             </li>
-            <div style="border: 2px solid green; padding: 5px;">
-              <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-              <img alt="Exercise 2 - Combinators - 1" src="/Lab Screenshots/Exercise2/Exercise2-1-2-1,2-1.png">
-              <img alt="Exercise 2 - Combinators - 2" src="/Lab Screenshots/Exercise2/Exercise2-1-2-1,2-2.png">
-            </div>
+            <img alt="Exercise 2 - Combinators - 1" src="/Lab Screenshots/Exercise2/Exercise2-1-2-1,2-1.png">
+            <img alt="Exercise 2 - Combinators - 2" src="/Lab Screenshots/Exercise2/Exercise2-1-2-1,2-2.png">
           </ul>
         </ul>
       </details>
@@ -394,16 +361,14 @@ border: 1px solid black;
             </li>
             <li>
               Observe how the third box retains height styled via the style attribute. Why is this? Force your CSS rules to take precedence using the <code>!important</code> operator.
-              <div style="border: 2px solid green; padding: 5px;">
-                  <p style="color: green; font-size: x-small; font-weight: bold;">ANSWER</p>
-                  This is becaise within the <code>index.html</code> the tags for that specific box sets a height, and as a result overrides the stylings set in <code>index.css</code>.
+              <div style="font-style: italic; font-size: small;">
+                This is becaise within the <code>index.html</code> the tags for that specific box sets a height, and as a result overrides the stylings set in <code>index.css</code>.
               </div>
             </li>
             <li>
               Try resizing the browser window while the box size depends on the <code>vw</code> and <code>vh</code> units. What can you observe?
-              <div style="border: 2px solid green; padding: 5px;">
-                  <p style="color: green; font-size: x-small; font-weight: bold;">ANSWER</p>
-                  The box size varies based with viewport(browser window) size changing. This is because in <code>index.css</code> the height and width is set to dimensions related to the viewport with the use of <code>vh</code> and <code>vw</code>.
+              <div style="font-style: italic; font-size: small;">
+                The box size varies based with viewport(browser window) size changing. This is because in <code>index.css</code> the height and width is set to dimensions related to the viewport with the use of <code>vh</code> and <code>vw</code>.
               </div>
             </li>
           </ul>
@@ -422,10 +387,9 @@ border: 1px solid black;
           <ul>
             <li>
               Test the two different values of box-sizing. How do they affect the width and height of the box elements?
-              <div style="border: 2px solid green; padding: 5px;">
-                  <p style="color: green; font-size: x-small; font-weight: bold;">ANSWER</p>
-                  <code>box-sizing: border-box</code>: Sets the boxes sizing to originate from the outer corner of border.<br>
-                  <code>box-sizing: content-box</code>: Sets the boxes sizing to originate from inner corner of border.
+              <div style="font-style: italic; font-size: small;">
+                <code>box-sizing: border-box</code>: Sets the boxes sizing to originate from the outer corner of border.<br>
+                <code>box-sizing: content-box</code>: Sets the boxes sizing to originate from inner corner of border.
               </div>
             </li>
           </ul>
@@ -439,12 +403,12 @@ border: 1px solid black;
             </li>
             <li>
               Set the overflow CSS rule for the <code>.box</code> class - test several different values. How do they affect the box?
-              <div style="border: 2px solid green; padding: 5px;">
-                  <p style="color: green; font-size: x-small; font-weight: bold;">ANSWER</p>
-                  <code>overflow: visible</code>: Allows overflowing text to be visible.<br>
-                  <code>overflow: hidden</code>: Hides any overflowing text.<br>
-                  <code>overflow: scroll</code>: Allows the boxes to be scrollable.<br>
-                  <code>overflow: auto</code>: Allows boxes to be scrollable <b>independently</b> when necessary, instead of making all boxes scrollable.     
+              <div style="font-style: italic; font-size: small;">
+                <code>overflow: visible</code>: Allows overflowing text to be visible.<br>
+                <code>overflow: hidden</code>: Hides any overflowing text.<br>
+                <code>overflow: scroll</code>: Allows the boxes to be scrollable.<br>
+                <code>overflow: auto</code>: Allows boxes to be scrollable <b>independently</b> when necessary, instead of making all boxes scrollable.
+              </div>     
             </li>
           </ul>
           <!-- Step 6 -->
@@ -483,11 +447,8 @@ border: 1px solid black;
               Set <code>background-position</code> to `center`. Also experiment with other values.
             </li>
           </ul>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 2 - Box Model and Common Properties - 1" src="/Lab Screenshots/Exercise2/Exercise2-2-1,2,3,4,5,6,7,8-1.png">
-            <img alt="Exercise 2 - Box Model and Common Properties - 2" src="/Lab Screenshots/Exercise2/Exercise2-2-1,2,3,4,5,6,7,8-2.png">
-          </div>
+          <img alt="Exercise 2 - Box Model and Common Properties - 1" src="/Lab Screenshots/Exercise2/Exercise2-2-1,2,3,4,5,6,7,8-1.png">
+          <img alt="Exercise 2 - Box Model and Common Properties - 2" src="/Lab Screenshots/Exercise2/Exercise2-2-1,2,3,4,5,6,7,8-2.png">
         </ul>
       </details>
       <details>
@@ -518,15 +479,13 @@ border: 1px solid black;
             </li>
             <li>
               How is absolute positioning within relative different from absolute positioning that is outside of relative?
-              <div style="border: 2px solid green; padding: 5px;">
-                <p style="color: green; font-size: x-small; font-weight: bold;">ANSWER</p>
+              <div style="font-style: italic; font-size: small;">
                 the absolute positioning within a relative positions it in relation to to the container's absolute. Absolute outside the container, without any relative tags follows the absolute of the HTML.
               </div>
             </li>
             <li>
               Add a <code>left</code> position value to the <code>.position-absolute</code> class and observe the difference. Add a right position value as well – what does this do?
-              <div style="border: 2px solid green; padding: 5px;">
-                <p style="color: green; font-size: x-small; font-weight: bold;">ANSWER</p>
+              <div style="font-style: italic; font-size: small;">
                 Adding a <code>left: 0;</code> moves the div to the left side of the page against the wall. Adding <code>right: 0;</code> to the style stretches the div across the whole page, left to right.
               </div>
             </li>
@@ -544,11 +503,8 @@ border: 1px solid black;
               Set a top position value to change where the element ‘sticks’ to.
             </li>
           </ul>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 2 - Positioning - 1" src="/Lab Screenshots/Exercise2/Exercise2-3-1,2,3-1.png">
-            <img alt="Exercise 2 - Positioning - 2" src="/Lab Screenshots/Exercise2/Exercise2-3-1,2,3-2.gif">
-          </div>
+          <img alt="Exercise 2 - Positioning - 1" src="/Lab Screenshots/Exercise2/Exercise2-3-1,2,3-1.png">
+          <img alt="Exercise 2 - Positioning - 2" src="/Lab Screenshots/Exercise2/Exercise2-3-1,2,3-2.gif">
         </ul>
       </details>
       <details>
@@ -618,11 +574,8 @@ border: 1px solid black;
               <b>Text Decoration</b> - Add a <code>text-decoration</code> CSS rule to the <code>.text-style</code> class. Experiment with different values using <code>px</code> units.
             </li>
           </ul>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 2 - Styling Text - 1" src="/Lab Screenshots/Exercise2/Exercise2-4-1,2,3,4,5,6-1.png">
-            <img alt="Exercise 2 - Styling Text - 2" src="/Lab Screenshots/Exercise2/Exercise2-4-1,2,3,4,5,6-2.png">
-          </div>
+          <img alt="Exercise 2 - Styling Text - 1" src="/Lab Screenshots/Exercise2/Exercise2-4-1,2,3,4,5,6-1.png">
+          <img alt="Exercise 2 - Styling Text - 2" src="/Lab Screenshots/Exercise2/Exercise2-4-1,2,3,4,5,6-2.png">
         </ul>
       </details>
       <details>
@@ -665,15 +618,11 @@ border: 1px solid black;
               Using a different <code>font-style</code> value.
             </li>
           </ul>
-          <div style="border: 2px solid orange; padding: 5px;">
-            <p style="color: red; font-size: x-small; font-weight: bold;">WHY THIS DOES NOT WORK!</p>
+          <div style="font-style: italic; font-size: small;">
             <code>font-style</code> Does not work due to browsers wanting to protect the users privacy. In the early days this was used by malicious websites in conjunction with JavaScript to figure out what website the user has visited.
           </div>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 2 - Syling Links - 1" src="/Lab Screenshots/Exercise2/Exercise2-5-1,2,3-1.png">
-            <img alt="Exercise 2 - Syling Links - 2" src="/Lab Screenshots/Exercise2/Exercise2-5-1,2,3-2.gif">
-          </div>
+          <img alt="Exercise 2 - Syling Links - 1" src="/Lab Screenshots/Exercise2/Exercise2-5-1,2,3-1.png">
+          <img alt="Exercise 2 - Syling Links - 2" src="/Lab Screenshots/Exercise2/Exercise2-5-1,2,3-2.gif">
         </ul>
       </details>
       <details>
@@ -705,11 +654,8 @@ border: 1px solid black;
               Use <codle>calc()</code> to subtract the width of the <code>fixed-width-col</code> from the total page width and set a dynamically calculated width for the <code>fluid-col</code> so that the two elements appear side-by-side.
             </li>
           </ul>
-          <div style="border: 2px solid green; padding: 5px;">
-            <p style="color: green; font-size: x-small; font-weight: bold;">SCREENSHOTS</p>
-            <img alt="Exercise 2 - calc() - 1" src="/Lab Screenshots/Exercise2/Exercise2-6-1,2,3-1.png">
-            <img alt="Exercise 2 - calc() - 2" src="/Lab Screenshots/Exercise2/Exercise2-6-1,2,3-2.png">
-          </div>
+          <img alt="Exercise 2 - calc() - 1" src="/Lab Screenshots/Exercise2/Exercise2-6-1,2,3-1.png">
+          <img alt="Exercise 2 - calc() - 2" src="/Lab Screenshots/Exercise2/Exercise2-6-1,2,3-2.png">
         </ul>
       </details>
     </ul>
