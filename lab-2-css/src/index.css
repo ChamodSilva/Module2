@@ -1,0 +1,170 @@
+/* I. Selectors */
+/* Put styles for questions 1.1, 1.2, 1.3 and 1.4 here */
+article
+{
+    margin: 20px 0;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.style-me1
+{
+    color: red;
+}
+
+#style-me2
+{
+    color: blue;
+}
+
+#style-me2.style-me1
+{
+    color: purple;
+}
+
+/* Put styles for questions 2.1 and 2.2 here */
+.my-descendants-are-styled p
+{
+    background: red;
+}
+
+.my-children-are-styled > p
+{
+    background: lightgreen;
+}
+
+/* II. Box model and common properties */
+/* Put styles for questions 1-8 here */
+.box
+{
+    /* Step 1 and 2 */
+    margin: 10px 8px 5px 3px;
+    padding: 10px 2px;
+    background-color: yellow;
+    height: 8vh !important;
+    width: 50vw;
+
+    /* Step 3*/
+    border: 10px solid blue;
+
+    /* Step 4*/
+    box-sizing: content-box;
+
+    /* Step 5*/
+    overflow: auto;
+
+    /* Step 6*/
+    outline: 10px solid chartreuse;
+
+    /* Step 7*/
+    border-radius: 50%;
+    padding: 100px 60px;
+
+    /* Step 8*/
+    background-image: url('/lab-2-css/assets/images/img1.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* III. Positioning */
+/* Put styles for questions 1-3 here */
+.position-absolute
+{
+    position: absolute;
+    top: 0;
+    background-color: aqua;
+    left: 0;
+}
+
+.position-relative
+{
+    position: relative;
+    background-color: orchid;
+}
+
+.position-sticky
+{
+    position: sticky;
+    background-color: blueviolet;
+    top: 0;
+}
+
+/* IV. Styling text */
+/* Put styles for questions 1-10 here */
+.text-style
+{
+    font-family: "ADLaM Display", serif;
+    font-weight: 400;
+    font-style: normal;
+
+    color: brown;
+    font-size: 20px;
+    line-height: 30px;
+
+    text-align: 0px;
+    letter-spacing: 5px;
+    word-spacing: 30px;
+    
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+/* V. Styling links */
+/* Put styles for questions 1-3 here */
+a:link
+{
+    color: fuchsia;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: overline;
+}
+
+a:hover
+{
+    color: rgb(83, 0, 83);
+    text-decoration: underline;
+}
+
+a:active
+{
+    color: rgb(39, 0, 39);
+    text-decoration: line-through;
+}
+
+a:focus
+{
+    color: black;
+    text-decoration: none;
+    background-color: fuchsia;
+}
+
+a:visited
+{
+    color: chartreuse;
+    font-style: italic; 
+}
+
+/* VI. calc() */
+/* Put styles for questions 1-3 here */
+.calc-style
+{
+    width: 100vw;
+    background-color: coral;
+    width: calc(100vw - 100px);
+}
+
+.fixed-width-col
+{
+    width: 350px;
+    display: inline-block;
+}
+
+.fluid-col
+{
+    align-items: center;
+    align-content: center;
+    justify-content: center;
+    display: inline-block;
+    width: calc(100vw - 350px);
+}
